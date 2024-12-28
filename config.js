@@ -17,12 +17,12 @@ export const config = {
     projects: [
         {
             id: 1,
-            title: "Portfolio",
-            description: "A modern and responsive portfolio website to showcase my projects, skills, and experiences. Built with Next.js and styled using TailwindCSS, this site provides a seamless user experience and a clean design that adapts to all devices.",
+            title: "portal",
+            description: "This bot allows you to activate and deactivate features like Swearing Block, Spam Protection, and Link Block with the `/system` command, and view all commands with `/help`.",
             image: "/projects/portfolio-app.png",
-            technologies: ["Next.js", "TailwindCSS", "Vercel"],
+            technologies: ["JavaScript", "Node.js"],
             github: "https://github.com/oknuzay/",
-            demo: "https://fr3zy.vercel.app"
+            demo: "https://discord.gg/xf8TvAWWQm"
         },
     ],
     skills: [
