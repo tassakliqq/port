@@ -13,11 +13,9 @@ const Footer = () => {
         >
             <div className="text-center">
                 <div className="text-sm text-muted-foreground flex items-center gap-2 justify-center">
-                    <span>© {new Date().getFullYear()} {config.developer.name}</span>
+                    <span>© {new Date().getFullYear()}</span>
                     <span>•</span>
-                    <span>All rights reserved</span>
-                    <span>•</span>
-                    <span>Made with {config.developer.name}</span>
+                    <span>Own by oknuzay</span>
                 </div>
             </div>
         </motion.footer>
